@@ -1,1 +1,1 @@
-Palindromo 1.0
+Palindromo 2.0 
